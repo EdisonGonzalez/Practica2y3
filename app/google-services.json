@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824751268160",
+    "project_id": "firebase-cine-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824751268160:android:2d81e3462875dd84",
+        "android_client_info": {
+          "package_name": "incorporation.app.primera.mi.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824751268160-kcpjumbd64eo6d8digmeheg61i61ckvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "incorporation.app.primera.mi.proyectofinal",
+            "certificate_hash": "fee2e01b3f300eb1a32f5f45eb1d49896c5338a2"
+          }
+        },
+        {
+          "client_id": "824751268160-p4jsqb8cs16q1j4vj0nlcg86nt1g7dh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJlGpHsKriT6Hf8_R_EpKR5BkeslyPmCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Perfil">
+
+    <item android:id="@+id/principal"
+        android:title="Principal"/>
+    <item android:id="@+id/cerrarperfil"
+        android:title="Cerrar Sesión"/>
+
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Main">  //aqui se define con cual actividad se esta enlazando el menu
+
+    <item android:id="@+id/miperfil"
+        android:title="Mi Perfil" />
+
+    <item android:id="@+id/cerrarmain"
+        android:title="Cerrar Sesión" />
+
+    <item android:id="@+id/informacion"
+        android:title="Información"
+        android:icon="@android:drawable/ic_delete"
+        app:showAsAction="always"
+        android:orderInCategory="2"/>
+
+    <item android:id="@+id/descargar"
+        android:title="Descargar"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="always"
+        android:orderInCategory="1"/>
+
+</menu>
